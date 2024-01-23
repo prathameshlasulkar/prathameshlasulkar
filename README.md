@@ -17,6 +17,6 @@
   
 - ⚡ Fun fact: ... I once traveled to [a unique place] and tried [an interesting local dish] that became my favorite!
 
-  ### linkdn
+
   
 
