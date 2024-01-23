@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Prathamesh Lasulkar  
 
-<!--
+
 - 🔭 I’m currently working on ...Web Devlopment 
 - 🌱 I’m currently learning ...Artificial Intelligence
 - 👯 I’m looking to collaborate on ...Frontend projects and web development projects.
@@ -9,4 +9,4 @@
 - 📫 How to reach me:  ...  - Email: [prathamesh.lasulkar@gmail.com]
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I once traveled to [a unique place] and tried [an interesting local dish] that became my favorite!
--->
+
